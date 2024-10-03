@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
+        "gilbert-iskandar": "Gilbert Iskandar",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
       },
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/gilbb.md",
+      "title": "Gilbert Iskandar's Project Portfolio Page",
+      "headings": {
+        "project-legacylink": "Project: LegacyLink"
       },
       "headingKeywords": {}
     },
