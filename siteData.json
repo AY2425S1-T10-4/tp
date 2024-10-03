@@ -11,7 +11,8 @@
         "asveen-elavarasan": "Asveen Elavarasan",
         "gilbert-iskandar": "Gilbert Iskandar",
         "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "james-doe": "James Doe",
+        "michael-yang": "Michael Yang"
       },
       "headingKeywords": {}
     },
@@ -145,6 +146,14 @@
     {
       "src": "team/gilbb.md",
       "title": "Gilbert Iskandar's Project Portfolio Page",
+      "headings": {
+        "project-legacylink": "Project: LegacyLink"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/michaelyql.md",
+      "title": "Michael's Project Portfolio Page",
       "headings": {
         "project-legacylink": "Project: LegacyLink"
       },
