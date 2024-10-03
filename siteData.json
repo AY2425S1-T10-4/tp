@@ -9,6 +9,7 @@
         "project-team": "Project team",
         "asveen-elavarasan": "Asveen Elavarasan",
         "gilbert-iskandar": "Gilbert Iskandar",
+        "marc-lim": "Marc Lim",
         "shashank-gorantla": "Shashank Gorantla",
         "michael-yang": "Michael Yang"
       },
@@ -142,8 +143,8 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/gilbb.md",
-      "title": "Gilbert Iskandar's Project Portfolio Page",
+      "src": "team/marchjlim.md",
+      "title": "Marc Lim's Project Portfolio Page",
       "headings": {
         "project-legacylink": "Project: LegacyLink"
       },
