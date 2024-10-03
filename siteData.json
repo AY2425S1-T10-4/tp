@@ -3,12 +3,12 @@
   "pages": [
     {
       "src": "AboutUs.md",
-      "title": "About Us",
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
         "jane-doe": "Jane Doe",
+        "asveen-elavarasan": "Asveen Elavarasan",
         "gilbert-iskandar": "Gilbert Iskandar",
         "jean-doe": "Jean Doe",
         "james-doe": "James Doe"
@@ -136,18 +136,17 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/gilbb.md",
-      "title": "Gilbert Iskandar's Project Portfolio Page",
+      "src": "team/ashea10.md",
       "headings": {
         "project-legacylink": "Project: LegacyLink"
       },
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/gilbb.md",
+      "title": "Gilbert Iskandar's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-legacylink": "Project: LegacyLink"
       },
       "headingKeywords": {}
     }
